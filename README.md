@@ -15,11 +15,11 @@ This project analyzes Google search trends using Python to identify patterns, gr
 - Matplotlib
 - Pytrends
 
-## 📈 Insights
+ 📈 Insights
 - Identifies trending topics
 - Compares growth rates of search queries
 
-## ▶️ How to Run
+ ▶️ How to Run
 ```bash
 pip install -r requirements.txt
 python main.py
